@@ -74,6 +74,7 @@ Comprehensive Splunk operational monitoring dashboard integrating user failure a
 ## 6. Optimized Dark-Mode Monitoring Dashboard 
 Optimized dark-mode Splunk dashboard featuring enhanced panel organization, centralized monitoring metrics, partner failure analysis, and time-series host activity visualization.
 
+</> Markdown
 ![Optimized Dark-Mode Dashboard](screenshots/06-optimized-darkmode-monitoring-dashboard.png)
 
 ---
