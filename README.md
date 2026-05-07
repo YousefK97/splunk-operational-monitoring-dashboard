@@ -46,7 +46,7 @@ Statistical reporting dashboard displaying top daily network failures by partner
 ## 2. Call Indicator Failure Monitor 
 Single-panel monitoring dashboard displaying failure events by device MAC address, IP address, caller number, and event frequency metrics.
 
-![Call Indicator Failure Monitor](screenshots/02-call-indicator-failure-monitor-png)
+![Call Indicator Failure Monitor](screenshots/02-call-indicator-failure-monitor.png)
 
 ---
 
